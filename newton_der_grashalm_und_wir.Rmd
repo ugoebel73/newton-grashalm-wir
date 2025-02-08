@@ -12,6 +12,7 @@ output:
     highlight: tango
     code_folding: hide
     css: styles.css 
+bibliography: references.bib    
 ---
 
 ```{css, include=FALSE}
@@ -23,9 +24,14 @@ output:
 }
 ```
 
-## Einleitung
-## Newton
-## Der Grashalm
-## .. und wir
+# Einleitung
+[@canguilhem_Erkenntnis]
+
+# Newton
+# .. der Grashalm
+# .. und wir
+
+# References
+
 
 
