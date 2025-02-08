@@ -1,0 +1,31 @@
+---
+title: "Newton, der Grashalm und wir"
+subtitle: "Biologie und Weltbild"
+author:
+  - name : "Ulrike Göbel"
+    email: ugoebel@uni-koeln.de
+date: "`r Sys.Date()`"
+output:
+   rmdformats::readthedown:
+    toc_depth: 3
+    df_print: paged
+    highlight: tango
+    code_folding: hide
+    css: styles.css 
+---
+
+```{css, include=FALSE}
+/* see https://stackoverflow.com/questions/69034784/increase-width-of-rmarkdown-theme-readthedown */
+#content{
+    max-width:1920px;  
+    /* max-width:900px; -- default*/
+
+}
+```
+
+## Einleitung
+## Newton
+## Der Grashalm
+## .. und wir
+
+
