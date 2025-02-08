@@ -1,5 +1,5 @@
 ---
-title: "Newton, der Grashalm und wir"
+title: "Newton, der Grashalm .. und wir"
 subtitle: "Biologie und Weltbild"
 author:
   - name : "Ulrike Göbel"
